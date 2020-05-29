@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.df0d8eb2.chunk.css",
+    "main.js": "./static/js/main.abbd9b79.chunk.js",
+    "main.js.map": "./static/js/main.abbd9b79.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.310ffc9b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.310ffc9b.js.map",
+    "static/js/2.3efc2571.chunk.js": "./static/js/2.3efc2571.chunk.js",
+    "static/js/2.3efc2571.chunk.js.map": "./static/js/2.3efc2571.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.6654c181c46464a0487bc786477c4fb4.js": "./precache-manifest.6654c181c46464a0487bc786477c4fb4.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.df0d8eb2.chunk.css.map": "./static/css/main.df0d8eb2.chunk.css.map",
+    "static/js/2.3efc2571.chunk.js.LICENSE.txt": "./static/js/2.3efc2571.chunk.js.LICENSE.txt",
+    "static/media/The Weeknd - False Alarm (Audio).mp3": "./static/media/The Weeknd - False Alarm (Audio).aff5432b.mp3",
+    "static/media/placeholder_600x400.svg": "./static/media/placeholder_600x400.439750f9.svg",
+    "static/media/the-weeknd-blinding-lights.jpg": "./static/media/the-weeknd-blinding-lights.7038a845.jpg",
+    "static/media/the-weeknd.jpg": "./static/media/the-weeknd.a7ed7802.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.310ffc9b.js",
+    "static/js/2.3efc2571.chunk.js",
+    "static/css/main.df0d8eb2.chunk.css",
+    "static/js/main.abbd9b79.chunk.js"
+  ]
+}
