@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.0a37355a.chunk.css",
-    "main.js": "./static/js/main.f067d3f3.chunk.js",
-    "main.js.map": "./static/js/main.f067d3f3.chunk.js.map",
+    "main.css": "./static/css/main.df0d8eb2.chunk.css",
+    "main.js": "./static/js/main.d8db865c.chunk.js",
+    "main.js.map": "./static/js/main.d8db865c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.310ffc9b.js",
     "runtime-main.js.map": "./static/js/runtime-main.310ffc9b.js.map",
-    "static/js/2.01330fc5.chunk.js": "./static/js/2.01330fc5.chunk.js",
-    "static/js/2.01330fc5.chunk.js.map": "./static/js/2.01330fc5.chunk.js.map",
+    "static/js/2.0a4af659.chunk.js": "./static/js/2.0a4af659.chunk.js",
+    "static/js/2.0a4af659.chunk.js.map": "./static/js/2.0a4af659.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8b72a2000036a3b55603844eb8af76c8.js": "./precache-manifest.8b72a2000036a3b55603844eb8af76c8.js",
+    "precache-manifest.e0903a48829c9b6247eab7ae8087f87d.js": "./precache-manifest.e0903a48829c9b6247eab7ae8087f87d.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.0a37355a.chunk.css.map": "./static/css/main.0a37355a.chunk.css.map",
-    "static/js/2.01330fc5.chunk.js.LICENSE.txt": "./static/js/2.01330fc5.chunk.js.LICENSE.txt",
+    "static/css/main.df0d8eb2.chunk.css.map": "./static/css/main.df0d8eb2.chunk.css.map",
+    "static/js/2.0a4af659.chunk.js.LICENSE.txt": "./static/js/2.0a4af659.chunk.js.LICENSE.txt",
     "static/media/The Weeknd - False Alarm (Audio).mp3": "./static/media/The Weeknd - False Alarm (Audio).aff5432b.mp3",
     "static/media/placeholder_600x400.svg": "./static/media/placeholder_600x400.439750f9.svg",
     "static/media/the-weeknd-blinding-lights.jpg": "./static/media/the-weeknd-blinding-lights.7038a845.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.310ffc9b.js",
-    "static/js/2.01330fc5.chunk.js",
-    "static/css/main.0a37355a.chunk.css",
-    "static/js/main.f067d3f3.chunk.js"
+    "static/js/2.0a4af659.chunk.js",
+    "static/css/main.df0d8eb2.chunk.css",
+    "static/js/main.d8db865c.chunk.js"
   ]
 }
